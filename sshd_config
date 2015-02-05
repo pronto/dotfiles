@@ -1,0 +1,7 @@
+AllowUsers pronto
+RSAAuthentication yes
+PubkeyAuthentication yes
+PasswordAuthentication no
+ChallengeResponseAuthentication no
+Subsystem	sftp	/usr/libexec/sftp-server
+PermitRootLogin no
