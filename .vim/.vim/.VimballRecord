@@ -1,0 +1,2 @@
+supertab.vba: call delete('/home/pronto/.vim/doc/supertab.txt')|call delete('/home/pronto/.vim/plugin/supertab.vim')
+tagbar.vmb: call delete('/home/pronto/.vim/autoload/tagbar.vim')|call delete('/home/pronto/.vim/doc/tagbar.txt')|call delete('/home/pronto/.vim/plugin/tagbar.vim')|call delete('/home/pronto/.vim/syntax/tagbar.vim')

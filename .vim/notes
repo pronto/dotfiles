@@ -1,0 +1,4 @@
+daw : delete the word under the cursor (include spaces)
+diw : delete word not include  spaces
+caw : delete the word under the the word (doesn't include spaces) and put in insert mode
+
